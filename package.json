@@ -1,0 +1,17 @@
+{
+  "name": "multiroom-chat",
+  "version": "1.0.0",
+  "description": "Aplicação de chat utilizando socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rogério Sandro Pereira Junior",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}
